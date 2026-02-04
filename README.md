@@ -43,6 +43,8 @@ Streamlit dashboard
 The DAG runs daily and always processes data for the **previous completed day**
 to avoid partial or incomplete data.
 
+![Airflow DAG](airflow_DAG.jpeg)
+
 ### Tasks
 
 #### create_tables
@@ -123,8 +125,17 @@ docker compose up -d --build
 ```
 # What This Project Demonstrates: 
 -Orchestrating batch data workflows with Airflow
+
 -Ingesting data from a public API
+
 -Performing daily aggregations
+
 -Designing idempotent database loads
+
 -Running basic data quality checks
+
 -Making processed data accessible via a simple UI
+
+#Video Demo
+
+
