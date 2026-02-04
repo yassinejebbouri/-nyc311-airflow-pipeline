@@ -136,6 +136,7 @@ docker compose up -d --build
 
 -Making processed data accessible via a simple UI
 
-#Video Demo
+# Video Demo
 
+[Watch the demo on YouTube](https://youtu.be/K_3EBEu9aH4) 
 
