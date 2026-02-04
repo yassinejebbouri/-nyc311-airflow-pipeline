@@ -1,0 +1,8 @@
+cat > .gitignore << 'EOF'
+.env
+logs/
+postgres-db-volume/
+__pycache__/
+*.pyc
+.DS_Store
+EOF
